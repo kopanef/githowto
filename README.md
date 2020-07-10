@@ -1,0 +1,2 @@
+# githowto
+Git educatiom
